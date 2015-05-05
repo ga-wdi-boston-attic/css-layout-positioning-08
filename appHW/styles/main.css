@@ -1,34 +1,34 @@
 #a {
   width: 150px;
   height: 2200px;
-  background-color: grey;
+  background-color: lightgrey;
 }
 
 #b {
   width: 1210px;
   height: 100px;
-  background-color: grey;
+  background-color: lightgrey;
   margin: -2200px 0 0 160px;
 }
 
 #c {
   width: 1170px;
   height: 100px;
-  background-color: grey;
+  background-color: lightgrey;
   margin: 20px 0 0 170px;
 }
 
 #d {
   width: 700px;
   height: 700px;
-  background-color: grey;
+  background-color: lightgreen;
   margin: 5px 0 0 170px;
 }
 
 #e {
   width: 1170px;
   height: 220px;
-  background-color: grey;
+  background-color: magenta;
   margin: 5px 0 0 170px;
 
 }
@@ -36,22 +36,22 @@
 #f {
   width: 465px;
   height: 700px;
-  background-color: grey;
+  background-color: lightblue;
   margin: -700px 0px 0 875px;
 }
 
 #g {
   width: 1170px;
-  height: 280px;
+  height: 885px;
   background-color: grey;
   margin: 5px 0 0 170px;
 }
 
 #h {
-  width: 1170px;
-  height: 760px;
-  background-color: grey;
-  margin: 5px 0 0 170px;
+  width: 1210px;
+  height: 150px;
+  background-color: lightgrey;
+  margin: 10px 0 0 160px;
 }
 
 @media (min-width:700px) {
